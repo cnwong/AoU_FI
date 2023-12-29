@@ -4,10 +4,14 @@ income,1585375
 marital,1585892
 employment,1585952
 Smoking100d,1585857
-smoking freq,1585860
+smoking_freq,1585860
 smokingavg,1586162
 etoh_yr,1586201
 etoh_6mo,1586213
 etoh_avgday,1586207
 etoh_participant,1586198
 house_stability,1585886
+race,1586140
+sex_birth,1585845
+sex_orient,1585899
+gender,1585838
